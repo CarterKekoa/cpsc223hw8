@@ -1,0 +1,4 @@
+/home/cmooring/cpsc223/hw8/CMakeFiles/rebuild_cache.dir
+/home/cmooring/cpsc223/hw8/CMakeFiles/edit_cache.dir
+/home/cmooring/cpsc223/hw8/CMakeFiles/hw8perf.dir
+/home/cmooring/cpsc223/hw8/CMakeFiles/hw8test.dir
